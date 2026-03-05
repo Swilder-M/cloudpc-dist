@@ -1,6 +1,4 @@
-# cloudpc-dist
-
-CMCC Cloud Computer Keepalive Tool
+# CMCC Cloud Computer Keepalive Tool
 
 Protocol analysis: <https://codming.com/posts/cmcc-cloud-computer-keepalive/>
 
