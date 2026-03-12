@@ -24,8 +24,6 @@ Protocol analysis: <https://codming.com/posts/cmcc-cloud-computer-keepalive/>
 ./cloudpc login
 ```
 
-Interactive flow: generate device ID -> input phone number -> receive SMS code -> login -> get cloud PC info. Config saved to `cloud_pc.json`.
-
 ### 2. Keepalive
 
 ```bash
